@@ -1,0 +1,11 @@
+Desconto da loja:
+
+Inicio
+1. Pergunte o valor do produto;
+2. Memorize o valor do produto;
+3. Multiplique o valor do produto por nove;
+4. Divida o resultado por 10;
+5. Fale pro cliente sobre que a um desconto na loja;
+6. Fale o resultado da conta anterior;
+7. fale que o valor é o valor do produto com desconto;
+Fim

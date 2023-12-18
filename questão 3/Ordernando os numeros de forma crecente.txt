@@ -1,0 +1,39 @@
+Ordem crecente dos numeros:
+
+Inicio:
+1. Pergunte 3 numeros diferentes ao usuário;
+2. Memorize o primeiro numero;
+3. Memorize o segundo numero;
+4. Memorize o terceiro numero;
+
+5. Se primeiro numero for menor que o segundo e se o primeiro numero for menor que o terceiro numero. faça:
+	1. Entende que o primeiro numero é o menor numero;
+	2. Se o segundo numero for menor que o terceiro então:
+		1. associe o segundo numero como o mediano;
+		2. e associe o terceiro numero como maior;
+	3. senão, faça:
+		1. associe o terceiro numero como mediano;
+		2. e associe o segundo numero como o maior;
+
+6. Senão Se segundo numero for menor que o primeiro e se o segundo numero for menor que o terceiro numero. faça:
+	1. Entende que o segundo numero é o menor numero;
+	2. Se o primeiro numero for maior que o terceiro então:
+		1. associe o primeiro numero como o maior;
+		2. e associe o terceiro numero como mediano;
+	3. senão, faça:
+		1. associe o terceiro numero como maior;
+		2. e associe o primeiro numero como o mediano;
+
+7. senão, faça:
+	1. associe o terceiro numero como menor;
+	2. se o primeiro numero for maior que o segundo,faça:
+		1. associe o primeiro numero como maior
+		2. e associe o segundo como mediano
+	3. senão, faça:
+		1. associe o segundo numero como maior
+		2. e associe o primeiro como mediano
+
+8. fale para usuário que a ordem dos numeros de forma crecente é:
+9. fale para usuário o numero associado como menor
+10. fale para usuário o numero associado como mediano
+11. fale para usuário o numero associado como maior

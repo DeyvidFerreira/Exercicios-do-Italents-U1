@@ -1,0 +1,12 @@
+Descobrindo a temperatura em Fahrenheit:
+
+Inicio:
+1. Pergunte ao usuário que escolha uma temperatura em graus Celsius;
+2. Memorize a temperatura que o usúario disse;
+3. Multiplique a temperatura por 9;
+4. Divida o resultado por 5;
+5. e some 32, o utilmo resultado;
+6. fale o resultado para o usuário;
+7. fale que o resultado é a temperatura dita em Fahrenheit;
+
+Fim
